@@ -2,7 +2,7 @@
 
 ## Project Description
 
-This repository contains my implementation of a seminar records management system, an assignment for CS5040. The key challenge was to create a system that manages variable-length records of seminars, including a memory management package and a hash table for efficient record access and retrieval.
+This repository contains my implementation of a seminar records management system, an assignment for CS 3114. The key challenge was to create a system that manages variable-length records of seminars, including a memory management package and a hash table for efficient record access and retrieval.
 
 ### Key Features
 
